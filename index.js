@@ -36,3 +36,8 @@ exports.handler = async function (event, context, callback) {
 };
 
 //location();
+
+/*to be able to run the code on VS Code, we need to uncomment "async function location" and uncomment the line that is calling the function name.
+as well as commenting out the line "exports.handler = async function ..."*/
+
+/* to run it on AWS, do the reverse of above */
