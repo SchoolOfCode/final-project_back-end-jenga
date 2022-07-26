@@ -18,7 +18,7 @@ exports.handler = async function (event, context, callback) {
   //   locationImage,
   // }) {
   console.log(JSON.stringify(`Event: event`));
-  console.log(userId);
+  //console.log(userId);
   const documentClient = new AWS.DynamoDB.DocumentClient({
     region: "eu-west-2",
   });
