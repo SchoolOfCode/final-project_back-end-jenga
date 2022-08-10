@@ -1,0 +1,23 @@
+{
+  "name": "final-project_back-end-jenga",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8153828&assignment_repo_type=AssignmentRepo)\r # final-project_back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchoolOfCode/final-project_back-end-jenga.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/final-project_back-end-jenga/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/final-project_back-end-jenga#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1181.0"
+  }
+}

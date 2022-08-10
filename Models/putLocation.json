@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "locationModel",
+    "type": "object",
+    "properties": {
+        "userId": { "type" : "string" },
+        "locationId": { "type" : "string" },
+        "longitude": { "type" : "string" },
+        "latitude": { "type" : "string" },
+        "locationName": { "type" : "string" },
+        "locationImage": { "type" : "string" }
+    }
+  }
