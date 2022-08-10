@@ -1,7 +1,27 @@
-
 # Keepers Finders by JENGA
 
 A brief description of what this project does and who it's for
+
+
+
+## Tech Stack
+
+We decided to chose a serverless backend model mainly because we recognised that cloud computing is becaming a future of backend development. 
+We treated this Final project as our best chance to learn a new tech and apply this knowledge in a real world scenario.  
+
+ - AWS API Gateway (REST API)
+ - DynamoDB
+ - Lambda functions (GET, PUT and DELETE request handling)
+
+ Our language of choice was JavaScript (Node.JS).
+ 
+## Diagram
+
+Our serverless backend diagram:
+
+![Backend Diagram](https://i.ibb.co/zQjr6XT/diagram.png)
+
+
 
 
 ## API Reference
@@ -39,15 +59,6 @@ A brief description of what this project does and who it's for
 | Parameter | Type     | Description                       | Response 
 | :-------- | :------- | :-------------------------------- | :-------------------- |
 | `id`      | `string` |  Delete the selected location from favourites |  {data: string, status: integer, statusText: string, header{...}} | 
-
-
-
-
-## Diagram
-
-Our serverless backend diagram:
-
-![Backend Diagram](https://i.ibb.co/zQjr6XT/diagram.png)
 
 
 ## Authors
