@@ -60,6 +60,10 @@ Our serverless backend diagram:
 | :-------- | :------- | :-------------------------------- | :-------------------- |
 | `id`      | `string` |  Delete the selected location from favourites |  {data: string, status: integer, statusText: string, header{...}} | 
 
+## Repositories
+
+Frontend:https://github.com/SchoolOfCode/final-project_front-end-jenga   
+Backend: https://github.com/SchoolOfCode/final-project_back-end-jenga
 
 ## Authors
 
