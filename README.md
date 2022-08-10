@@ -1,7 +1,7 @@
-# Keepers Finders by JENGA
-
-A brief description of what this project does and who it's for
-
+<div align="center">
+    <img src="https://i.ibb.co/d5K6SD6/logo.png" alt="logo" width="200"/>
+</div>
+<h1 align="center">Finders Keepers by JENGA - Backend repository</h1>
 
 
 ## Tech Stack
