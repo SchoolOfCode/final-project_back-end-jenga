@@ -6,8 +6,8 @@
 
 ## Tech Stack
 
-We decided to chose a serverless backend model mainly because we recognised that cloud computing is becaming a future of backend development. 
-We treated this Final project as our best chance to learn a new tech and apply this knowledge in a real world scenario.  
+We decided to chose a serverless backend model mainly because we recognised that Serverless cloud computing model is becaming the future of backend development. 
+We treated this Final project as our chance to learn a new tech and apply this knowledge in a real world scenario.  
 
  - AWS API Gateway (REST API)
  - DynamoDB
